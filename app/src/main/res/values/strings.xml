@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Evatronics</string>
+    <string name="motto">THINKING OUTSIDE THE BOX...</string>
+
+
+    <string name="request_frag">Hello Request Fragment</string>
+    <string name="videos_frag">Hello Video fragment</string>
+    <string name="about_frag">Hello About fragment</string>
+    <string name="option_help">Help and FeedBack</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by submitting a project request</string>
+
+    <!--TAB LABELS-->
+    <string name="request_label">Requests</string>
+    <string name="videos_label">Videos</string>
+    <string name="about_label">About</string>
+
+    <string name="No_forms_available">You currently Have no Forms,\n Click on the + Button to Add new Request</string>
+    <string name="requestForm_title">PROJECT ASSISTANCE REQUEST FORM</string>
+    <string name="fullName">Full Name:</string>
+    <string name="email">Email:</string>
+    <string name="university">University:</string>
+    <string name="Company">Company/Firm:</string>
+    <string name="project_topic">Project Topic:</string>
+    <string name="project_description">Project Description: </string>
+    <string name="project_duration">Project Duration: </string>
+    <string name="training_question">Do you need Training </string>
+    <string name="training_yes">If Yes, Choose a package(s) below:</string>
+    <string name="web">Web Development</string>
+    <string name="android">Android Development</string>
+    <string name="hardware_design">Embedded Systems Design</string>
+    <string name="microControllers">MicroControllers(Arduino, PIC, Raspberry Pi)</string>
+    <string name="desktop">Desktop App development</string>
+    <string name="programming">Programming Generally</string>
+    <string name="simulation">Simulation Softwares( Proteus, AutoCad etc.)</string>
+    <string name="matlab">Matlab</string>
+    <string name="action_submit">Submit</string>
+    
+
+</resources>
